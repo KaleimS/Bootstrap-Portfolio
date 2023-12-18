@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
   }
 
 :root {
@@ -9,6 +10,31 @@
 }  
 
 body {
-    font-family: ;
+  
+}
+
+/*Navbar*/
+.navbarLinks {
+  font-size: 20px;
+}
+
+.nav-link:hover {
+  background: #fff;
+  color: #000 !important;
+  border-radius: 10px;
+}
+
+.nav-link {
+  border-bottom: 3px solid #fff;
+}
+
+.navbar-brand {
+  background: #fff;
+  color: black !important;
+  border-radius: 10px;
+}
+
+nav a {
+  font-size: 25px !important;
 }
 
