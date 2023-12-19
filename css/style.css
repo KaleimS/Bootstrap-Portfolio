@@ -39,6 +39,7 @@ nav a {
   background-image: url(/images/flat-lay-workstation-with-copy-space-laptop\ \(1\).jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  border-bottom: 5px solid black;
   height: 500px;
   color: #fff;
 }
@@ -53,7 +54,7 @@ nav a {
 }
 
 /* About Me */
-.aboutMe {
+.sectionHeaders {
   font-size: 7vh;
 }
 
@@ -64,6 +65,35 @@ nav a {
   border-width: 5px;
   border-radius: 10px;
 }
+
+.sectionDivider {
+  border-top: 6px solid black;
+  border-radius: 5px 5px 5px 5px;
+  border-width: 20px;
+}
+
+/* WorkSection */
+.project1 {
+  width: 100%;
+  border: 6px solid black;
+  border-radius: 10px; 
+}
+
+.project-1 {
+  text-decoration: none !important;
+}
+
+.sectionOverlay {
+  position: relative;
+  bottom: 80px;
+  width: 300px;
+  background: #000;
+  color: #fff;
+  font-size: 4vh;
+}
+
+
+
 
 
 
