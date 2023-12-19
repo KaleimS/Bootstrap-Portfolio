@@ -52,4 +52,18 @@ nav a {
   font-size: 7vh;
 }
 
+/* About Me */
+.aboutMe {
+  font-size: 7vh;
+}
+
+.aboutMeContent {
+  font-size: 2vh !important;
+  border: 1px solid black;
+  background: rgba(0, 0, 0, 0.2);
+  border-width: 5px;
+  border-radius: 10px;
+}
+
+
 
