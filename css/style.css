@@ -36,7 +36,7 @@ nav a {
 
 /* Jumbotron */
 .jumbotron {
-  background-image: url(../images/heroimg.jpg);
+  background-image: url(/images/heroimg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom: 5px solid black;
