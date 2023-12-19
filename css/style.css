@@ -92,6 +92,11 @@ nav a {
   font-size: 4vh;
 }
 
+/* Contact Me */
+.card {
+  border: none !important;
+}
+
 
 
 
