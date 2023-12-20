@@ -10,9 +10,6 @@ This project was a chance to improve on my last Portfolio Project linked here: <
 
 Link to Bootstrap Portfolio: <br>https://kaleims.github.io/Bootstrap-Portfolio/
     
-    ![alt text](assets/images/screenshot.png)
-    
-
 ## Credits
 
 I used logos from Flaticon link will be under this text, if you're looking for high quality logos this will be for you.
