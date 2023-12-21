@@ -36,7 +36,7 @@ nav a {
 
 /* Jumbotron */
 .jumbotron {
-  background-image: url(../images/heroimg.JPG);
+  background-image: url(/images/heroimg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom: 5px solid black;
@@ -70,6 +70,8 @@ nav a {
   border-top: 6px solid black;
   border-radius: 5px 5px 5px 5px;
   border-width: 20px;
+  padding-bottom: 70px;
+  margin: 1px auto;
 }
 
 /* WorkSection */
@@ -92,10 +94,22 @@ nav a {
   font-size: 4vh;
 }
 
+/* Skills */
+.skillsCard {
+  padding: 10px;
+  border: 5px solid black !important;
+}
+
+#skills {
+  margin: 10px auto;
+}
+
 /* Contact Me */
-.card {
+.noBorder {
   border: none !important;
 }
+
+
 
 
 
